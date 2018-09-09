@@ -4,7 +4,7 @@ function sendTelegram($message)
     $curl = curl_init();
 
     curl_setopt_array($curl, array(
-        CURLOPT_URL => "https://integram.org/cut4y4siJuj",
+        CURLOPT_URL => "https://integram.org/",
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => "",
         CURLOPT_MAXREDIRS => 10,
@@ -238,7 +238,7 @@ if (count($_POST) > 0 && $_GET['ajax'] == 'signup') {
 
 <script type="text/javascript">
     $(function () {
-        $("#telefone").mask("(99) 9999-9999");
+        $("#telefone").mask("(99) 99999-9999");
         $("#btn-enviar").click(function () {
             var nome = $("#nome").val();
             var telefone = $("#telefone").val();
