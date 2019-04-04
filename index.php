@@ -204,10 +204,10 @@
                 </div>
     </div>
 </section><!--main-section-end-->
-<!-- 
-<h2>Eventos</h2>
-<h6>Fique por dentro, não perca essa oportunidade!</h6> -->
 
+<h2>Eventos</h2>
+<h6>Projeto tijolinho... em breve!!!</h6> -->
+<!-- 
 <!-- <section class="main-section client-part" id="client">
 
     <div class="container">
