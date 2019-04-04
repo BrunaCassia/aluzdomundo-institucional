@@ -204,11 +204,11 @@
                 </div>
     </div>
 </section><!--main-section-end-->
-
+<!-- 
 <h2>Eventos</h2>
-<h6>Fique por dentro, não perca essa oportunidade!</h6>
+<h6>Fique por dentro, não perca essa oportunidade!</h6> -->
 
-<section class="main-section client-part" id="client"><!--main-section client-part-start-->
+<!-- <section class="main-section client-part" id="client">
 
     <div class="container">
         <b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
@@ -225,16 +225,8 @@
                 </a></li>
         </ul>
     </div>
-</section><!--main-section client-part-end-->
-<a href="inscricao.php" style="text-decoration: none">
-    <div class="c-logo-part"><!--c-logo-part-start-->
-        <div class="container">
-            <ul>
-                <li><span id="btn-inscrevase">Inscreva-se</span></li>
-            </ul>
-        </div>
-    </div><!--c-logo-part-end-->
-</a>
+</section> -->
+<!--main-section client-part-end-->
 <section class="main-section team" id="team"><!--main-section team-start-->
     <div class="container">
         <h2>Cursos</h2>
