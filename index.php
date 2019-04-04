@@ -206,7 +206,10 @@
 </section><!--main-section-end-->
 
 <h2>Eventos</h2>
-<h6>Projeto tijolinho... em breve!!!</h6> -->
+<h6>Projeto tijolinho</h6> -->
+<h4>O ministério infantil, construindo tijolinho por tijolinho um futuro na presença do Senhor.</h4>
+<h3>Papai e Mamãe seu pequenino não pode ficar de fora dessa, para saber mais procure a professora Roberta...</h3>
+<h3>Em breve atualizaremos o site com mais informações</h3>
 <!-- 
 <!-- <section class="main-section client-part" id="client">
 
