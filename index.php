@@ -156,7 +156,7 @@
 </section><!--main-section alabaster-end-->
 
 
-<!--<section class="main-section paddind" id="Portfolio">
+<!--section class="main-section paddind" id="Portfolio">
 	<div class="container">
     	<h2>Galeria</h2>
     	<h6>"...até aqui nos ajudou o Senhor."</h6>
@@ -206,17 +206,14 @@
 </section><!--main-section-end-->
 
 <h2>Eventos</h2>
-<h6>Projeto tijolinho</h6>
-<h4>O ministério infantil, construindo tijolinho por tijolinho um futuro na presença do Senhor.</h4>
-<h3>Papai e Mamãe seu pequenino não pode ficar de fora dessa, para saber mais procure a professora Roberta...</h3>
-<h3>Em breve atualizaremos o site com mais informações</h3>
-<!-- 
-<!-- <section class="main-section client-part" id="client">
+<h6><a href="tijolinho.php">Saiba Mais</a></h6>
 
-    <div class="container">
-        <b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
+ <section class="main-section client-part" id="client">
+
+    <!--<div class="container">
+        <b class=""><i class="fa-quote-right"></i></b>-->
         <div class="row">
-            <div class="col-lg-12">
+            <!--<div class="col-lg-12">
                 <p class="client-part-haead wow fadeInDown delay-05">Preletor:</p>
             </div>
         </div>
@@ -227,7 +224,7 @@
                     <span>Diretor da UDF - Universidade da Família</span>
                 </a></li>
         </ul>
-    </div>
+    </div>-->
 </section> -->
 <!--main-section client-part-end-->
 <section class="main-section team" id="team"><!--main-section team-start-->
@@ -318,9 +315,8 @@
                 </div>
                 <div class="contact-info-box hours clearfix">
                     <h3><i class="fa-clock-o"></i>Reuniões:</h3>
-                    <span><strong>Terça (culto de Oração):</strong> 19:00 h<br>
-                          <strong>Terça (TADEL):</strong> 20:00h <br>
-                          <strong>Quarta - Quinta (Células):</strong> 20:00h <br>
+                    <span><strong>Quarta (Culto de Oração e TADEL) </strong> 20:00 h<br>
+                          <strong>Quinta (Células):</strong> 20:00h <br>
                           <strong>Domingo (Culto de Celebração):</strong> 19:00h <br>
                     </span>
                 </div>
