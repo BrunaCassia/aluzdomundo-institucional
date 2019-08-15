@@ -206,7 +206,7 @@
 </section><!--main-section-end-->
 
 <h2>Eventos</h2>
-<h6><a href="tijolinho.php">Saiba Mais</a></h6>
+<h6><a href="#"></a></h6>
 
  <section class="main-section client-part" id="client">
 
